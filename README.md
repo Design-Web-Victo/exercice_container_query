@@ -1,2 +1,2 @@
-# ex10
-Template de départ pour l'exercice 10
+# Exercice sur les medias queries
+Template de départ pour l'exercice
